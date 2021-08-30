@@ -12,7 +12,7 @@ Meet Card Delta Dump (CDD), an easy way to free you from the pain of the first s
 CDD works with two main folders, the `mirror` and the `import`
 
 The `mirror` is where CDD mirrors the full content of the cards (with the full directory structure), and it's meant not to be touched by you in any way.
-The `import` is where CDD copy the new files from the cards (with no strcture, just the media files in the root directory for the card)
+The `import` is where CDD copy the new files from the cards (with no strcture, just the media files found in the card)
 
 For each card, CDD creates a subdirectory inside the `mirror` and the `import` folder, for example
 
